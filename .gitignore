@@ -1,0 +1,3 @@
+__pycache__/
+build/lib/task_tracker_cli/
+task_tracker_cli.egg-info/
