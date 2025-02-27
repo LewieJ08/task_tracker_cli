@@ -29,13 +29,19 @@ TaskTracker> clear
 # 🚀 Installation
 
 1. Clone the repository:<br>
+```bash
 git clone https://github.com/LewieJ08/task_tracker_cli.git 
+```
 2. Install the package:<br>
-pip install .
+```bash
+pip install task_tracker_cli
+```
 ## 📌 Usage
 
 Run the CLI app with:<br>
+```bash
 task-tracker
+```
 
 ## RoadMap.sh Project:
 https://roadmap.sh/projects/task-tracker
