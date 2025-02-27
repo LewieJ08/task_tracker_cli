@@ -31,6 +31,7 @@ TaskTracker> clear
 1. Clone the repository:<br>
 ```bash
 git clone https://github.com/LewieJ08/task_tracker_cli.git 
+cd task_tracker_cli
 ```
 2. Install the package:<br>
 ```bash
