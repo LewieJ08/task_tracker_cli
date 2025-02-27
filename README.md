@@ -34,7 +34,7 @@ git clone https://github.com/LewieJ08/task_tracker_cli.git
 ```
 2. Install the package:<br>
 ```bash
-pip install task_tracker_cli
+pip install .
 ```
 ## 📌 Usage
 
