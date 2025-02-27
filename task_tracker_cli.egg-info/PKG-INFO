@@ -2,7 +2,7 @@ Metadata-Version: 2.2
 Name: task_tracker_cli
 Version: 1.0.0
 Summary: A simple task tracker CLI app used to store and manage tasks.
-Home-page: 
+Home-page: https://github.com/LewieJ08/task_tracker_cli
 Author: Lewie Jackson
 Author-email: LewieJ08@gmail.com
 Classifier: Programming Language :: Python :: 3
@@ -15,6 +15,7 @@ Dynamic: author-email
 Dynamic: classifier
 Dynamic: description
 Dynamic: description-content-type
+Dynamic: home-page
 Dynamic: requires-python
 Dynamic: summary
 
@@ -45,3 +46,7 @@ TaskTracker> list in-progress
 
 ## Deleting all tasks
 TaskTracker> clear
+
+# ðŸš€ Installation
+
+1. Clone the repository:

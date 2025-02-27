@@ -15,7 +15,7 @@ setup(
     description="A simple task tracker CLI app used to store and manage tasks.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="",  # Add your GitHub repo link once it's created
+    url="https://github.com/LewieJ08/task_tracker_cli",  # Add your GitHub repo link once it's created
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

@@ -28,4 +28,11 @@ TaskTracker> clear
 
 # 🚀 Installation
 
-1. Clone the repository:
+1. Clone the repository:<br>
+git clone https://github.com/LewieJ08/task_tracker_cli.git 
+2. Install the package:<br>
+pip install .
+## 📌 Usage
+
+Run the CLI app with:<br>
+task-tracker
