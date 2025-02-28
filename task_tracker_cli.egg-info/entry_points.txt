@@ -1,0 +1,2 @@
+[console_scripts]
+task-tracker = task_tracker_cli.main:main
