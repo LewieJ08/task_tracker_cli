@@ -156,7 +156,7 @@ def main():
 
     # Main loop
     while True:
-        uinput = input("TaskTracker> ").lower().strip()
+        uinput = input("Task-Tracker> ").lower().strip()
         splitInput = uinput.split(" ", 1)
         if splitInput[0] == COMMANDS[0]:
             break
