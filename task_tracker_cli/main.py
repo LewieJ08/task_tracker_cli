@@ -148,8 +148,6 @@ def clear():
 
 # Main function
 def main():
-    os.system("cls")
-
     if not os.path.exists(JSONFILE):
         with open(JSONFILE, "w") as file:
             json.dump([], file) 
